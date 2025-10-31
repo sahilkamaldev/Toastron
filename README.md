@@ -13,18 +13,6 @@ Explore live previews, toast examples, and interactive customizations.
 
 ---
 
-## 📦 Installation
-
-Install via **npm** or **yarn**:
-
-```bash
-npm install toastron
-# or
-yarn add toastron
-```
-
-Then wrap your app with the provider:
-
 ```tsx
 import { ToastProvider } from "toastron"
 
@@ -139,15 +127,10 @@ toast({
 Read full docs here:  
 👉 [Toastron Docs](https://toastron.vercel.app/docs)
 
-### 📦 Download Library
-[⬇️ Download ZIP](https://github.com/radium-op/toastron/archive/refs/heads/main.zip)
-
 ---
 
 ## ⭐ Support Development
-If you like this project, please star it on GitHub 💖  
-[🌟 Star on GitHub](https://github.com/radium-op/toastron)
-
+If you like this project, please star it on GitHub 💖 
 ---
 
 ## 🛠️ Built With
