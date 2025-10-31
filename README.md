@@ -7,45 +7,12 @@ Create beautiful, animated alerts with ease — lightweight, responsive, and bui
 
 ## 🌐 Live Demo
 
-👉 [Try Toastron Online](https://toastron.vercel.app)
+👉 [Try Toastron Online With Full User Guide](https://toastron.vercel.app)
 
 Explore live previews, toast examples, and interactive customizations.
 
 ---
 
-```tsx
-import { ToastProvider } from "toastron"
-
-export default function App({ children }) {
-  return <ToastProvider>{children}</ToastProvider>
-}
-```
-
-Now you can use the toast hooks anywhere in your components.
-
----
-
-## 🚀 Quick Start Example
-
-```tsx
-"use client"
-import { useToast } from "toastron"
-
-export default function Example() {
-  const { success, error, info, warning } = useToast()
-
-  return (
-    <div>
-      <button onClick={() => success("Success!", "Your changes were saved.")}>
-        Show Success
-      </button>
-      <button onClick={() => error("Error!", "Something went wrong.")}>
-        Show Error
-      </button>
-    </div>
-  )
-}
-```
 
 ---
 
