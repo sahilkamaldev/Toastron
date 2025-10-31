@@ -125,7 +125,7 @@ toast({
 
 ### 🔗 Documentation
 Read full docs here:  
-👉 [Toastron Docs](https://toastron.vercel.app/docs)
+👉 [Toastron Docs](https://toastron.vercel.app)
 
 ---
 
@@ -142,6 +142,6 @@ If you like this project, please star it on GitHub 💖
 
 ## ❤️ Credits
 Free and open-source notification library  
-Created with passion by **Radium** for the developer community 💙  
+Created with passion by **Sahil Kamal** for the developer community 💙  
 
 © 2025 **Toastron** — All rights reserved.
