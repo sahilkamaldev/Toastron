@@ -14,8 +14,6 @@ Explore live previews, toast examples, and interactive customizations.
 ---
 
 
----
-
 ## ✨ Features
 
 - 🎨 **Glassmorphic Design** — beautiful backdrop blur with gradient borders  
